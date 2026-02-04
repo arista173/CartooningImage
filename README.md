@@ -46,5 +46,5 @@ The program uses a combination of computer vision techniques:
 CartooningImage/
 ├── cartoon.py       # Main Python script
 ├── test1.jpg        # Your input image (example)
-├── res1.jpg         # Generated cartoon image (example)
+└── res1.jpg         # Generated cartoon image (example)
 ```
